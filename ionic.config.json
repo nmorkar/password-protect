@@ -1,5 +1,8 @@
 {
   "name": "password-protect",
-  "app_id": "",
-  "type": "ionic-angular"
+  "app_id": "77b68983",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
 }
